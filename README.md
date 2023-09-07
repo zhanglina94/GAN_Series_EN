@@ -5,13 +5,28 @@
 
 <h3 align="center">
   <p style="text-align: center;">
-  <a href="README.md" target="_blank">ENGLISH</a> | <a href="">中文解释</a>
+  <a href="README.md" target="_blank">ENGLISH</a> | <a href="">中文</a>
   </p>
 </h3>
 
 
 &nbsp;
+## Models Survey
+| Date 	| Announcements 	|
+|-	|-	|
+| 2020	| A Survey on Generative Adversarial Networks:Variants, Applications, and Training	|
+---------------------------------------------------------------------------
 
+##
+| Date 	| Announcements 	|
+|-	|-	|
+| 2014	| VITS:Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech	|
+| 2021	| FPN-VITS |
+| 2021	| CAT-P-VITS |
+| 2021	| Sine-P-VITS |
+| 2023	| PERIOD VITS: VARIATIONAL INFERENCE WITH EXPLICIT PITCH MODELING FOR END-TO-END EMOTIONAL SPEECH SYNTHESIS|
+| 2023	| MB-iSTFT-VITS:LIGHTWEIGHT AND HIGH-FIDELITY END-TO-END TEXT-TO-SPEECH WITH MULTI-BAND GENERATION AND INVERSE SHORT-TIME FOURIER TRANSFORM|
+---------------------------------------------------------------------------
 
 
 # :art:&emsp;2014_Generative Adversarial Network
